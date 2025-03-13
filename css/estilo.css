@@ -1,6 +1,17 @@
 body{
     text-align: center;
-    background-color: white;
+    background-color: rgb(141, 134, 214);
     font-family: Arial, sans-serif;
-    color: blueviolet;
+    color: rgb(43, 226, 67);
+    margin: 20px;
+    padding: 50px;
+}
+#container{
+    width: 100%;
+    background-color: rgb(13, 13, 13);
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 5px 5px 5px rgba(0, 0, 0, 0.5);
+    margin: 0 auto;
+    width: 300px;
 }
