@@ -6,6 +6,20 @@ body{
     margin: 20px;
     padding: 50px;
 }
+
+#cabecera{
+    background-color: rgb(246, 241, 241);
+    color: rgb(226, 43, 144);
+    padding: 10px;
+    border-radius: 50px;
+    display: flex;
+    justify-content: center;
+    width: 280px;
+    font-family: Arial, sans-serif;
+    font-size: 30px;
+
+
+}
 #container{
     width: 100%;
     background-color: rgb(13, 13, 13);
